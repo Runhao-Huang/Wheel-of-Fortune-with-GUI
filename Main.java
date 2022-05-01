@@ -1,6 +1,4 @@
 /*Runhao Huang
-CSC112 Fall 2021
-Programming Assignment 5
 December 1, 2021
 This program is a more proper version of the game Wheel of fortune. In this program, there are clear instructions of the moves
 that a player can possibly do according to the rule by using the green color and red color, and there are clear demonstrations
